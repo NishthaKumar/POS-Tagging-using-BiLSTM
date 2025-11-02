@@ -1,4 +1,4 @@
-# 🧠 POS-Tagging-using-BiLSTM
+# POS-Tagging-using-BiLSTM
 
 A mini NLP deep learning project that implements **Part-of-Speech (POS) Tagging** using a **Bidirectional LSTM (BiLSTM)** model trained on the **NLTK Treebank** dataset.  
 
